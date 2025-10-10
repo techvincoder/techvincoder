@@ -4,11 +4,11 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Completed Engineering from **University of Mumbai**  
-- 💻 Passionate about **Java Full Stack Development** & **DevOps**  
-- 🔧 Skilled in **Spring Boot (MVC + REST), AWS, Docker, Kubernetes, Terraform, Jenkins**  
-- 🌱 Currently learning **.NET**  
-- 💡 Love building scalable applications & automation workflows  
+- 💻 I am a software engineer specializing in the Java ecosystem, with a deep passion for building robust, secure, and scalable full-stack applications.
+- 💡 I thrive on understanding the entire development lifecycle, from architecting a secure REST API with Spring Boot to building data-driven, interactive user interfaces.
+- 🔧 My core expertise lies in the Spring Framework (Boot, Security, MVC, Data JPA) and DevOps practices, including containerization with Docker & Kubernetes.
+- 🎓 Graduating in 2025 with a degree in Engineering from the University of Mumbai.
+- 🌱 I am driven by the challenge of solving real-world business problems through clean, well-architected code.
 
 ---
 
@@ -61,7 +61,14 @@
 
 ---
 
-### 📂 Featured Projects  
+### 📂 Featured Projects
+
+- **Permit Management System (Full-Stack Monolith)**
+  A complete, end-to-end web application for managing council permits, inspired by professional platforms like GreenLight and PermAssist. Built with **Java, Spring Boot, Spring Security (JWT & Form Login), JPA/Hibernate, PostgreSQL, and Thymeleaf**.
+  - Architected a multi-layered backend with a full REST API, using DTOs to ensure a secure and efficient data layer.
+  - Implemented a hybrid security model from scratch to handle both stateless API (JWT) and stateful UI (session-based) authentication for two distinct user types (Staff and Customers).
+  - Built two complete user interfaces: a comprehensive **Staff Portal** for internal management and a public-facing **Customer Portal** for self-service registration and application submission.
+  - [https://github.com/techvincoder/permit-management-system]  
 
 - **Blockchain Food Supply Chain**  
   Web app for tracking agricultural supply chain using **Ethereum Smart Contracts, Solidity, Next.js, Tailwind, Node.js**  
