@@ -71,11 +71,23 @@ VS Code, Git, GitHub, Problem-Solving, Team Collaboration, Critical Thinking, Ti
 
 
 ---
-
 ### 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techvincoder&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techvincoder&layout=compact&theme=tokyonight)  
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techvincoder&show_icons=true&theme=tokyonight)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techvincoder&layout=compact&theme=tokyonight)
+
+</td>
+</tr>
+</table>
+
 
 ---
 
