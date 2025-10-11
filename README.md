@@ -61,12 +61,12 @@ VS Code, Git, GitHub, Problem-Solving, Team Collaboration, Critical Thinking, Ti
 
 ---
 
-### 📜 Certificates  
-
-![C++ Basics with DSA - Coding Ninjas](https://img.shields.io/badge/Basics_of_C++_with_DSA-CodingNinjas-ED1C24?style=for-the-badge&logo=codingninjas&logoColor=white)  
-![Java Full Stack - QSpiders](https://img.shields.io/badge/Java_Full_Stack-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white)  
-![SQL & PL/SQL - QSpiders](https://img.shields.io/badge/SQL_&_PL/SQL-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white)  
-![Web Development - QSpiders](https://img.shields.io/badge/Web_Development-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white)
+### 📜 Certificates 
+- **Basics of C++ with DSA**
+– Coding Ninjas (2021)
+- **Java Full Stack (Core, Advanced, Spring Boot)** – QSpiders (2024)
+- **SQL & PL/SQL** – QSpiders (2024)
+- **Web Development (HTML, CSS, JS, React)** – QSpiders (2024)
 
 
 
