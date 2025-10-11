@@ -73,7 +73,7 @@ VS Code, Git, GitHub, Problem-Solving, Team Collaboration, Critical Thinking, Ti
 ---
 ### 📊 GitHub Stats  
 
-<table>
+<table border="0">
 <tr>
 <td>
 
@@ -87,6 +87,7 @@ VS Code, Git, GitHub, Problem-Solving, Team Collaboration, Critical Thinking, Ti
 </td>
 </tr>
 </table>
+
 
 
 ---
