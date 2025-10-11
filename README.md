@@ -63,10 +63,11 @@ VS Code, Git, GitHub, Problem-Solving, Team Collaboration, Critical Thinking, Ti
 
 ### 📜 Certificates  
 
-- ![C++ Basics with DSA - Coding Ninjas](https://img.shields.io/badge/Basics_of_C++_with_DSA-CodingNinjas-ED1C24?style=for-the-badge&logo=codingninjas&logoColor=white)  2021  
-- ![Java Full Stack - QSpiders](https://img.shields.io/badge/Java_Full_Stack-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white)  2024  
-- ![SQL & PL/SQL - QSpiders](https://img.shields.io/badge/SQL_&_PL/SQL-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white)  2024  
-- ![Web Development - QSpiders](https://img.shields.io/badge/Web_Development-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white)  2024
+![C++ Basics - Coding Ninjas](https://img.shields.io/badge/Basics_of_C++_with_DSA-CodingNinjas-ED1C24?style=for-the-badge&logo=codingninjas&logoColor=white) 2021  
+![Java Full Stack - QSpiders](https://img.shields.io/badge/Java_Full_Stack-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white) 2024  
+![SQL & PL/SQL - QSpiders](https://img.shields.io/badge/SQL_&_PL/SQL-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white) 2024  
+![Web Development - QSpiders](https://img.shields.io/badge/Web_Development-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white) 2024
+
 
 
 ---
