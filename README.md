@@ -63,10 +63,21 @@ VS Code, Git, GitHub, Problem-Solving, Team Collaboration, Critical Thinking, Ti
 
 ### 📜 Certificates  
 
-![C++ Basics - Coding Ninjas](https://img.shields.io/badge/Basics_of_C++_with_DSA-CodingNinjas-ED1C24?style=for-the-badge&logo=codingninjas&logoColor=white) 2021  
-![Java Full Stack - QSpiders](https://img.shields.io/badge/Java_Full_Stack-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white) 2024  
-![SQL & PL/SQL - QSpiders](https://img.shields.io/badge/SQL_&_PL/SQL-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white) 2024  
-![Web Development - QSpiders](https://img.shields.io/badge/Web_Development-QSpiders-007ACC?style=for-the-badge&logo=qspiders&logoColor=white) 2024
+<a href="https://www.codingninjas.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Coding_Ninjas_logo.png" alt="Coding Ninjas" width="130"/>  
+</a> **Basics of C++ with DSA** – 2021  
+
+<a href="https://www.qspiders.com/" target="_blank">
+  <img src="https://qspiders.com/wp-content/uploads/2021/01/qspiders-logo.png" alt="QSpiders" width="130"/>  
+</a> **Java Full Stack (Core, Advanced, Spring Boot)** – 2024  
+
+<a href="https://www.qspiders.com/" target="_blank">
+  <img src="https://qspiders.com/wp-content/uploads/2021/01/qspiders-logo.png" alt="QSpiders" width="130"/>  
+</a> **SQL & PL/SQL** – 2024  
+
+<a href="https://www.qspiders.com/" target="_blank">
+  <img src="https://qspiders.com/wp-content/uploads/2021/01/qspiders-logo.png" alt="QSpiders" width="130"/>  
+</a> **Web Development (HTML, CSS, JS, React)** – 2024
 
 
 
