@@ -64,19 +64,19 @@ VS Code, Git, GitHub, Problem-Solving, Team Collaboration, Critical Thinking, Ti
 ### 📜 Certificates  
 
 <a href="https://www.codingninjas.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Coding_Ninjas_logo.png" alt="Coding Ninjas" width="130"/>  
+  <img src="assets/codingninjas.png" alt="Coding Ninjas" width="130"/>  
 </a> **Basics of C++ with DSA** – 2021  
 
 <a href="https://www.qspiders.com/" target="_blank">
-  <img src="https://qspiders.com/wp-content/uploads/2021/01/qspiders-logo.png" alt="QSpiders" width="130"/>  
+  <img src="assets/qspiders.png" alt="QSpiders" width="130"/>  
 </a> **Java Full Stack (Core, Advanced, Spring Boot)** – 2024  
 
 <a href="https://www.qspiders.com/" target="_blank">
-  <img src="https://qspiders.com/wp-content/uploads/2021/01/qspiders-logo.png" alt="QSpiders" width="130"/>  
+  <img src="assets/qspiders.png" alt="QSpiders" width="130"/>  
 </a> **SQL & PL/SQL** – 2024  
 
 <a href="https://www.qspiders.com/" target="_blank">
-  <img src="https://qspiders.com/wp-content/uploads/2021/01/qspiders-logo.png" alt="QSpiders" width="130"/>  
+  <img src="assets/qspiders.png" alt="QSpiders" width="130"/>  
 </a> **Web Development (HTML, CSS, JS, React)** – 2024
 
 
