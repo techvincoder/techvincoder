@@ -63,9 +63,9 @@
 ![Zipkin](https://img.shields.io/badge/Zipkin-Distributed_Tracing-blueviolet?style=for-the-badge)
 
 **Security & Architecture**  
-- JWT-based Microservices Security
-- Stateless Authentication
-- Fault-tolerant distributed system design
+- JWT-based Microservices Security  
+- Stateless Authentication  
+- Fault-tolerant distributed system design  
 - High Availability & Scalability Patterns
 
 ---
@@ -99,6 +99,17 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 ---
 
 ### 📂 Featured Projects
+
+- **Job Application System (Microservices Architecture)**  
+  A complete microservices-based Job Application Platform built using **Spring Boot 3.4.x & Spring Cloud 2024.x**.  
+  - Implemented independent services: **Company Service, Job Service, Review Service**  
+  - Added **Service Registry (Eureka)**, **API Gateway**, **Config Server**  
+  - Integrated **OpenFeign** + **Eureka Load Balancing (`lb://`)**  
+  - Added **Circuit Breaker, Retry, Fallback, Rate Limiter** using **Resilience4j**  
+  - Implemented **Micrometer + Zipkin Distributed Tracing**  
+  - Used **Database-per-service** with **PostgreSQL**  
+  - Built production-ready architecture with future **Docker & Kubernetes** support  
+  - https://github.com/techvincoder/job-application-microservices  
 
 - **Permit Management System (Full-Stack Monolith)**  
   A complete, end-to-end web application for managing council permits, inspired by professional platforms like GreenLight and PermAssist. Built with **Java, Spring Boot, Spring Security (JWT & Form Login), JPA/Hibernate, PostgreSQL, and Thymeleaf**.  
