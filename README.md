@@ -66,7 +66,33 @@
 - JWT-based Microservices Security  
 - Stateless Authentication  
 - Fault-tolerant distributed system design  
-- High Availability & Scalability Patterns
+- High Availability & Scalability Patterns  
+
+---
+
+### 🗺️ Microservices Architecture (Simplified Diagram)
+
+```
+                    ┌────────────────────────┐
+                    │      API Gateway       │
+                    │  (Spring Cloud Gateway)│
+                    └───────────┬────────────┘
+                                │
+                ┌───────────────┼────────────────┐
+                │               │                │
+ ┌────────────────────┐ ┌──────────────────┐ ┌──────────────────┐
+ │   Company Service   │ │    Job Service   │ │   Review Service  │
+ │ (Eureka Client +    │ │ (OpenFeign +     │ │ (DB-per-service)  │
+ │  PostgreSQL)        │ │  Load Balancer)  │ │                   │
+ └──────────┬──────────┘ └─────────┬────────┘ └─────────┬────────┘
+            │                      │                      │
+            └───────────────┬──────┴────────────┬────────┘
+                            │                   │
+                    ┌────────────┐      ┌──────────────┐
+                    │  Config     │      │   Eureka      │
+                    │  Server     │      │  Registry     │
+                    └────────────┘      └──────────────┘
+```
 
 ---
 
@@ -102,31 +128,30 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 
 - **Job Application System (Microservices Architecture)**  
   A complete microservices-based Job Application Platform built using **Spring Boot 3.4.x & Spring Cloud 2024.x**.  
-  - Implemented independent services: **Company Service, Job Service, Review Service**  
-  - Added **Service Registry (Eureka)**, **API Gateway**, **Config Server**  
-  - Integrated **OpenFeign** + **Eureka Load Balancing (`lb://`)**  
-  - Added **Circuit Breaker, Retry, Fallback, Rate Limiter** using **Resilience4j**  
-  - Implemented **Micrometer + Zipkin Distributed Tracing**  
-  - Used **Database-per-service** with **PostgreSQL**  
-  - Built production-ready architecture with future **Docker & Kubernetes** support  
+  - Independent services: **Company, Job, Review**  
+  - Service Registry (**Eureka**), API Gateway, Config Server  
+  - **OpenFeign** + **Eureka Load Balancing (`lb://`)**  
+  - Circuit Breaker, Retry, Rate Limiter (**Resilience4j**)  
+  - Distributed Tracing with **Micrometer + Zipkin**  
+  - Database-per-service (**PostgreSQL**)  
   - https://github.com/techvincoder/job-application-microservices  
 
 - **Permit Management System (Full-Stack Monolith)**  
-  A complete, end-to-end web application for managing council permits, inspired by professional platforms like GreenLight and PermAssist. Built with **Java, Spring Boot, Spring Security (JWT & Form Login), JPA/Hibernate, PostgreSQL, and Thymeleaf**.  
-  - Architected a multi-layered backend with a full REST API, using DTOs to ensure a secure and efficient data layer.  
-  - Implemented a hybrid security model from scratch to handle both stateless API (JWT) and stateful UI (session-based) authentication for two distinct user types (Staff and Customers).  
-  - Built two complete user interfaces: a comprehensive **Staff Portal** and a public-facing **Customer Portal**.  
-  - Currently evolving this system into a **microservices-based architecture** using **Spring Cloud (Eureka, API Gateway, Config Server, OpenFeign, Resilience4j, Micrometer, Zipkin)**.  
+  Built with **Java, Spring Boot, Spring Security (JWT + Form Login), JPA, PostgreSQL, Thymeleaf**  
+  - Multi-layered backend architecture  
+  - Hybrid authentication (JWT + Session)  
+  - Staff & Customer portals  
+  - Being upgraded to microservices architecture  
   - https://github.com/techvincoder/permit-management-system  
 
 - **Blockchain Food Supply Chain**  
-  Web app for tracking agricultural supply chain using **Ethereum Smart Contracts, Solidity, Next.js, Tailwind, Node.js**  
+  Built using **Ethereum Smart Contracts, Solidity, Next.js, Tailwind, Node.js**
 
 - **Blockchain-Based Evidence Management System**  
-  Decentralized platform ensuring tamper-proof digital evidence storage using **Blockchain**  
+  Tamper-proof decentralized evidence management using **Blockchain**
 
 - **Student Management System**  
-  Full-stack system to manage student records, attendance, and academics  
+  Full-stack solution for managing student-related records
 
 ---
 
@@ -154,6 +179,19 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 </td>
 </tr>
 </table>
+
+---
+
+### 🐍 GitHub Contribution Snake  
+![snake gif](https://github.com/techvincoder/techvincoder/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📌 Pinned Repositories  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techvincoder&repo=job-application-microservices&theme=tokyonight)](https://github.com/techvincoder/job-application-microservices)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techvincoder&repo=permit-management-system&theme=tokyonight)](https://github.com/techvincoder/permit-management-system)
 
 ---
 
