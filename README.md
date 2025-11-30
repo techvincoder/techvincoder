@@ -191,12 +191,19 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 
 ---
 
-### 📌 Pinned Repositories  
+### 📌 Pinned Repositories
 
+<div align="left">
 
-[![Pinned Repo](https://github-readme-stats-git-main-rafaelalmeidatk.vercel.app/api/pin/?username=techvincoder&repo=job-application-microservices&theme=tokyonight)](https://github.com/techvincoder/job-application-microservices)
+💠 **<a href="https://github.com/techvincoder/job-application-microservices">Job Application Microservices</a>**  
+<sub>Microservices • Spring Boot • Eureka • API Gateway • Config Server • OpenFeign • Resilience4j • Zipkin</sub>
 
-[![Pinned Repo](https://github-readme-stats-git-main-rafaelalmeidatk.vercel.app/api/pin/?username=techvincoder&repo=permit-management-system&theme=tokyonight)](https://github.com/techvincoder/permit-management-system)
+---
+
+💠 **<a href="https://github.com/techvincoder/permit-management-system">Permit Management System</a>**  
+<sub>Monolith + Evolving Microservices • Spring Boot • Security • JPA • PostgreSQL • Thymeleaf</sub>
+
+</div>
 
 
 
