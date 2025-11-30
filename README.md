@@ -183,7 +183,8 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 ---
 
 ### 🐍 GitHub Contribution Snake  
-![snake gif](https://github.com/techvincoder/techvincoder/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/techvincoder/techvincoder/output/github-contribution-grid-snake.svg)
+
 
 ---
 
