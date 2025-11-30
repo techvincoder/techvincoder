@@ -190,18 +190,61 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 
 
 ---
-
-### 📌 Pinned Repositories
+### 📌 Pinned Repositories  
 
 <div align="left">
 
-🎯 <a href="https://github.com/techvincoder/job-application-microservices"><b>Job Application Microservices</b></a><br>
-<span style="color:#58a6ff;">Microservices • Spring Cloud • Eureka • Gateway • Feign • Zipkin</span>
+<!-- JOB MICROSERVICES -->
+<div style="margin-bottom: 20px;">
+
+🎯 <a href="https://github.com/techvincoder/job-application-microservices"><b>Job Application Microservices</b></a>  
+<span style="color:#58a6ff;">Microservices • Spring Cloud • Eureka • Gateway • Feign • Resilience4j • Zipkin</span>
 
 <br>
 
-🛡️ <a href="https://github.com/techvincoder/permit-management-system"><b>Permit Management System</b></a><br>
+<a href="https://github.com/techvincoder/job-application-microservices">
+  <img src="https://img.shields.io/github/stars/techvincoder/job-application-microservices?style=for-the-badge&logo=github&color=yellow">
+</a>
+<a href="https://github.com/techvincoder/job-application-microservices">
+  <img src="https://img.shields.io/github/forks/techvincoder/job-application-microservices?style=for-the-badge&logo=github&color=blue">
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Gateway-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Zipkin-blueviolet?style=for-the-badge">
+
+</div>
+
+---
+
+<!-- PERMIT MANAGEMENT SYSTEM -->
+<div style="margin-top: 20px;">
+
+🛡️ <a href="https://github.com/techvincoder/permit-management-system"><b>Permit Management System</b></a>  
 <span style="color:#58a6ff;">Spring Boot • Security • JPA • PostgreSQL • Thymeleaf</span>
+
+<br>
+
+<a href="https://github.com/techvincoder/permit-management-system">
+  <img src="https://img.shields.io/github/stars/techvincoder/permit-management-system?style=for-the-badge&logo=github&color=yellow">
+</a>
+<a href="https://github.com/techvincoder/permit-management-system">
+  <img src="https://img.shields.io/github/forks/techvincoder/permit-management-system?style=for-the-badge&logo=github&color=blue">
+</a>
+
+<br>
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Security-000000?style=for-the-badge&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+
+</div>
 
 </div>
 
