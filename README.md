@@ -195,15 +195,16 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 
 <div align="left">
 
-💠 **<a href="https://github.com/techvincoder/job-application-microservices">Job Application Microservices</a>**  
-<sub>Microservices • Spring Boot • Eureka • API Gateway • Config Server • OpenFeign • Resilience4j • Zipkin</sub>
+🎯 <a href="https://github.com/techvincoder/job-application-microservices"><b>Job Application Microservices</b></a><br>
+<span style="color:#58a6ff;">Microservices • Spring Cloud • Eureka • Gateway • Feign • Zipkin</span>
 
----
+<br>
 
-💠 **<a href="https://github.com/techvincoder/permit-management-system">Permit Management System</a>**  
-<sub>Monolith + Evolving Microservices • Spring Boot • Security • JPA • PostgreSQL • Thymeleaf</sub>
+🛡️ <a href="https://github.com/techvincoder/permit-management-system"><b>Permit Management System</b></a><br>
+<span style="color:#58a6ff;">Spring Boot • Security • JPA • PostgreSQL • Thymeleaf</span>
 
 </div>
+
 
 
 
