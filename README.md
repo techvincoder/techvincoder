@@ -169,13 +169,13 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 <tr>
 <td>
 
-![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=techvincoder&cc=000&tc=fff&ic=fff&bc=000)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=techvincoder&theme=tokyonight)
 
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techvincoder&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=techvincoder&layout=compact&theme=tokyonight)
 
 
 </td>
