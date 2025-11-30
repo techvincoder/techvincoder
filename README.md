@@ -175,7 +175,7 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 </td>
 <td>
 
-![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=techvincoder&layout=compact&cc=000&tc=fff&ic=fff&bc=000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techvincoder&layout=compact&theme=tokyonight)
 
 
 
