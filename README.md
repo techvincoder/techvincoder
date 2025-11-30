@@ -169,12 +169,14 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techvincoder&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=techvincoder&cc=000&tc=fff&ic=fff&bc=000)
+
 
 </td>
 <td>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techvincoder&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=techvincoder&layout=compact&cc=000&tc=fff&ic=fff&bc=000)
+
 
 </td>
 </tr>
@@ -190,9 +192,10 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 
 ### 📌 Pinned Repositories  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techvincoder&repo=job-application-microservices&theme=tokyonight)](https://github.com/techvincoder/job-application-microservices)
+[![Pinned Repo](https://github-stats-alpha.vercel.app/api/pin/?username=techvincoder&repo=job-application-microservices&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/techvincoder/job-application-microservices)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techvincoder&repo=permit-management-system&theme=tokyonight)](https://github.com/techvincoder/permit-management-system)
+[![Pinned Repo](https://github-stats-alpha.vercel.app/api/pin/?username=techvincoder&repo=permit-management-system&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/techvincoder/permit-management-system)
+
 
 ---
 
