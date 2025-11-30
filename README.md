@@ -126,97 +126,111 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 
 ---
 
-## 📂 Featured Projects
+---
 
-<div align="left">
+## 📂 Featured Projects  
+<div align="center">
 
-<!-- JOB MICROSERVICES PROJECT -->
-### 🎯 <a href="https://github.com/techvincoder/job-application-microservices"><b>Job Application System (Microservices Architecture)</b></a>
+<!-- PROJECT CARD 1 -->
+<div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin: 15px; width: 90%; background: #0d1117; box-shadow: 0 0 8px #1a1a1a;">
+<h3>🎯 <a href="https://github.com/techvincoder/job-application-microservices">Job Application System (Microservices)</a></h3>
 
-A complete microservices-based Job Application Platform built using **Spring Boot 3.4.x & Spring Cloud 2024.x** with production-level patterns.
+<p align="left">
+A production-ready microservices platform built using Spring Boot 3.4.x & Spring Cloud.  
+Includes advanced service-to-service communication, Gateway routing, fault tolerance, and distributed tracing.
+</p>
 
-#### 🚀 Highlights  
-- Independent services: **Company**, **Job**, **Review**  
-- **Eureka Server** + API Gateway + Config Server  
-- **OpenFeign** with Eureka-based Load Balancing (`lb://`)  
+### ⭐ Highlights  
+- Microservices: **Company, Job, Review**  
+- Service Discovery: **Eureka Server**  
+- API Gateway + Config Server  
+- **OpenFeign + Load Balancing (`lb://`)**  
 - Circuit Breaker, Retry, Rate Limiter (**Resilience4j**)  
-- Distributed Tracing (**Micrometer + Zipkin**)  
-- **Database per service (PostgreSQL)**  
-- Production-ready architecture (Docker + Kubernetes ready)
+- **Micrometer + Zipkin** tracing  
+- DB-per-service architecture (PostgreSQL)
 
-#### 🛠 Tech Stack  
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Zipkin-blueviolet?style=for-the-badge">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat&logo=spring"> 
+<img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat"> 
+<img src="https://img.shields.io/badge/Feign_Client-6DB33F?style=flat"> 
+<img src="https://img.shields.io/badge/Zipkin-blueviolet?style=flat"> 
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql">
 
-#### 📊 Repo Insights  
-<img src="https://img.shields.io/github/stars/techvincoder/job-application-microservices?style=flat&color=yellow">
-<img src="https://img.shields.io/github/forks/techvincoder/job-application-microservices?style=flat&color=blue">
+### 📊 Repo Insights  
+<img src="https://img.shields.io/github/stars/techvincoder/job-application-microservices?style=flat&color=yellow"> 
+<img src="https://img.shields.io/github/forks/techvincoder/job-application-microservices?style=flat&color=blue"> 
 <img src="https://img.shields.io/github/last-commit/techvincoder/job-application-microservices?style=flat&color=green">
+</div>
 
----
+<!-- PROJECT CARD 2 -->
+<div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin: 15px; width: 90%; background: #0d1117; box-shadow: 0 0 8px #1a1a1a;">
+<h3>🛡️ <a href="https://github.com/techvincoder/permit-management-system">Permit Management System (Monolith → Microservices)</a></h3>
 
-<!-- PERMIT MANAGEMENT SYSTEM -->
-### 🛡️ <a href="https://github.com/techvincoder/permit-management-system"><b>Permit Management System (Full-Stack Monolith)</b></a>
+<p align="left">
+A real-world style permit management platform with dual authentication (JWT + Session) and secure role-based access.  
+Currently evolving into a distributed microservices architecture.
+</p>
 
-A production-grade permit management platform inspired by real government tools like GreenLight & PermAssist.
+### ⭐ Highlights  
+- Staff & Customer Portals  
+- Hybrid Auth: **JWT + Session**  
+- DTO + Service + Repository layered architecture  
+- Admin-level access + secure backend  
+- Migration underway → **Spring Cloud Microservices**
 
-#### 🚀 Highlights  
-- **JWT + Session-based Hybrid Authentication**  
-- Staff Portal + Customer Portal  
-- Multi-layered backend with DTOs, Services, Repositories  
-- Role-based access + secure form login  
-- Currently being upgraded to **Microservices using Spring Cloud**
+### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot"> 
+<img src="https://img.shields.io/badge/Spring_Security-000?style=flat&logo=springsecurity"> 
+<img src="https://img.shields.io/badge/JPA_Hibernate-59666C?style=flat&logo=hibernate"> 
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql"> 
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf">
 
-#### 🛠 Tech Stack  
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/Spring_Security-000?style=for-the-badge&logo=springsecurity">
-<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate">
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql">
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf">
-
-#### 📊 Repo Insights  
-<img src="https://img.shields.io/github/stars/techvincoder/permit-management-system?style=flat&color=yellow">
-<img src="https://img.shields.io/github/forks/techvincoder/permit-management-system?style=flat&color=blue">
+### 📊 Repo Insights  
+<img src="https://img.shields.io/github/stars/techvincoder/permit-management-system?style=flat&color=yellow"> 
+<img src="https://img.shields.io/github/forks/techvincoder/permit-management-system?style=flat&color=blue"> 
 <img src="https://img.shields.io/github/last-commit/techvincoder/permit-management-system?style=flat&color=green">
+</div>
 
----
+<!-- PROJECT CARD 3 -->
+<div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin: 15px; width: 90%; background: #0d1117; box-shadow: 0 0 8px #1a1a1a;">
+<h3>🌾 <a href="https://github.com/techvincoder/Food-Supply-Chain">Blockchain Food Supply Chain</a></h3>
 
-<!-- BLOCKCHAIN FOOD SUPPLY -->
-### 🌾 <a href="https://github.com/techvincoder/Food-Supply-Chain"><b>Blockchain Food Supply Chain</b></a>
+<p align="left">
+Decentralized agricultural tracking system built using Ethereum Smart Contracts for transparent & tamper-proof supply chain management.
+</p>
 
-A blockchain-based agricultural supply chain system ensuring full traceability with Ethereum smart contracts.
+### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity"> 
+<img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js"> 
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss">
+</div>
 
-#### 🛠 Tech Stack  
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity">
-<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js">
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss">
+<!-- PROJECT CARD 4 -->
+<div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin: 15px; width: 90%; background: #0d1117; box-shadow: 0 0 8px #1a1a1a;">
+<h3>🔐 Blockchain-Based Evidence Management System</h3>
 
----
+<p align="left">
+A tamper-proof digital evidence storage solution leveraging blockchain immutability for secure legal workflows.
+</p>
 
-<!-- BLOCKCHAIN EVIDENCE -->
-### 🔐 <a href="#"><b>Blockchain-Based Evidence Management System</b></a>
+### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat"> 
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js">
+</div>
 
-Decentralized storage solution for tamper-proof digital evidence using blockchain.
+<!-- PROJECT CARD 5 -->
+<div style="border: 1px solid #30363d; border-radius: 12px; padding: 20px; margin: 15px; width: 90%; background: #0d1117; box-shadow: 0 0 8px #1a1a1a;">
+<h3>🎓 Student Management System</h3>
 
-#### 🛠 Tech Stack  
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge">
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js">
+<p align="left">
+A secure full-stack application to manage student records, academics, and attendance with role-based access.
+</p>
 
----
-
-<!-- STUDENT MANAGEMENT -->
-### 🎓 <a href="#"><b>Student Management System</b></a>
-
-A full-stack system to manage student attendance, academics, and information securely.
-
-#### 🛠 Tech Stack  
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java">
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot">
-<img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql">
+### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java"> 
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot"> 
+<img src="https://img.shields.io/badge/MySQL-00618A?style=flat&logo=mysql">
+</div>
 
 </div>
 
