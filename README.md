@@ -193,9 +193,10 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 
 ### 📌 Pinned Repositories  
 
-[![Pinned Repo](https://github-stats-alpha.vercel.app/api/pin/?username=techvincoder&repo=job-application-microservices&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/techvincoder/job-application-microservices)
 
-[![Pinned Repo](https://github-stats-alpha.vercel.app/api/pin/?username=techvincoder&repo=permit-management-system&cc=000&tc=fff&ic=fff&bc=000)](https://github.com/techvincoder/permit-management-system)
+🔹 **[Job Application Microservices](https://github.com/techvincoder/job-application-microservices)**  
+🔹 **[Permit Management System](https://github.com/techvincoder/permit-management-system)**
+
 
 
 ---
