@@ -195,7 +195,7 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 <div align="left">
 
 <!-- JOB MICROSERVICES -->
-<div style="margin-bottom: 10px;">
+<div style="margin-bottom: 20px;">
 
 🎯 <a href="https://github.com/techvincoder/job-application-microservices"><b>Job Application Microservices</b></a>  
 <span style="color:#58a6ff;">Microservices • Spring Cloud • Eureka • Gateway • Feign • Resilience4j • Zipkin</span>
@@ -222,7 +222,7 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 ---
 
 <!-- PERMIT MANAGEMENT SYSTEM -->
-<div style="margin-top: 10px;">
+<div style="margin-top: 20px;">
 
 🛡️ <a href="https://github.com/techvincoder/permit-management-system"><b>Permit Management System</b></a>  
 <span style="color:#58a6ff;">Spring Boot • Security • JPA • PostgreSQL • Thymeleaf</span>
@@ -247,6 +247,7 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 </div>
 
 </div>
+
 
 
 
