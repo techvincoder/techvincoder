@@ -124,34 +124,102 @@ VS Code, Git, GitHub, Maven, Problem-Solving, Team Collaboration, Critical Think
 
 ---
 
-### 📂 Featured Projects
+---
 
-- **Job Application System (Microservices Architecture)**  
-  A complete microservices-based Job Application Platform built using **Spring Boot 3.4.x & Spring Cloud 2024.x**.  
-  - Independent services: **Company, Job, Review**  
-  - Service Registry (**Eureka**), API Gateway, Config Server  
-  - **OpenFeign** + **Eureka Load Balancing (`lb://`)**  
-  - Circuit Breaker, Retry, Rate Limiter (**Resilience4j**)  
-  - Distributed Tracing with **Micrometer + Zipkin**  
-  - Database-per-service (**PostgreSQL**)  
-  - https://github.com/techvincoder/job-application-microservices  
+## 📂 Featured Projects
 
-- **Permit Management System (Full-Stack Monolith)**  
-  Built with **Java, Spring Boot, Spring Security (JWT + Form Login), JPA, PostgreSQL, Thymeleaf**  
-  - Multi-layered backend architecture  
-  - Hybrid authentication (JWT + Session)  
-  - Staff & Customer portals  
-  - Being upgraded to microservices architecture  
-  - https://github.com/techvincoder/permit-management-system  
+<div align="left">
 
-- **Blockchain Food Supply Chain**  
-  Built using **Ethereum Smart Contracts, Solidity, Next.js, Tailwind, Node.js**
+<!-- JOB MICROSERVICES PROJECT -->
+### 🎯 <a href="https://github.com/techvincoder/job-application-microservices"><b>Job Application System (Microservices Architecture)</b></a>
 
-- **Blockchain-Based Evidence Management System**  
-  Tamper-proof decentralized evidence management using **Blockchain**
+A complete microservices-based Job Application Platform built using **Spring Boot 3.4.x & Spring Cloud 2024.x** with production-level patterns.
 
-- **Student Management System**  
-  Full-stack solution for managing student-related records
+#### 🚀 Highlights  
+- Independent services: **Company**, **Job**, **Review**  
+- **Eureka Server** + API Gateway + Config Server  
+- **OpenFeign** with Eureka-based Load Balancing (`lb://`)  
+- Circuit Breaker, Retry, Rate Limiter (**Resilience4j**)  
+- Distributed Tracing (**Micrometer + Zipkin**)  
+- **Database per service (PostgreSQL)**  
+- Production-ready architecture (Docker + Kubernetes ready)
+
+#### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/Zipkin-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+
+#### 📊 Repo Insights  
+<img src="https://img.shields.io/github/stars/techvincoder/job-application-microservices?style=flat&color=yellow">
+<img src="https://img.shields.io/github/forks/techvincoder/job-application-microservices?style=flat&color=blue">
+<img src="https://img.shields.io/github/last-commit/techvincoder/job-application-microservices?style=flat&color=green">
+
+---
+
+<!-- PERMIT MANAGEMENT SYSTEM -->
+### 🛡️ <a href="https://github.com/techvincoder/permit-management-system"><b>Permit Management System (Full-Stack Monolith)</b></a>
+
+A production-grade permit management platform inspired by real government tools like GreenLight & PermAssist.
+
+#### 🚀 Highlights  
+- **JWT + Session-based Hybrid Authentication**  
+- Staff Portal + Customer Portal  
+- Multi-layered backend with DTOs, Services, Repositories  
+- Role-based access + secure form login  
+- Currently being upgraded to **Microservices using Spring Cloud**
+
+#### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring_Security-000?style=for-the-badge&logo=springsecurity">
+<img src="https://img.shields.io/badge/JPA-Hibernate-59666C?style=for-the-badge&logo=hibernate">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql">
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf">
+
+#### 📊 Repo Insights  
+<img src="https://img.shields.io/github/stars/techvincoder/permit-management-system?style=flat&color=yellow">
+<img src="https://img.shields.io/github/forks/techvincoder/permit-management-system?style=flat&color=blue">
+<img src="https://img.shields.io/github/last-commit/techvincoder/permit-management-system?style=flat&color=green">
+
+---
+
+<!-- BLOCKCHAIN FOOD SUPPLY -->
+### 🌾 <a href="https://github.com/techvincoder/Food-Supply-Chain"><b>Blockchain Food Supply Chain</b></a>
+
+A blockchain-based agricultural supply chain system ensuring full traceability with Ethereum smart contracts.
+
+#### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity">
+<img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js">
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss">
+
+---
+
+<!-- BLOCKCHAIN EVIDENCE -->
+### 🔐 <a href="#"><b>Blockchain-Based Evidence Management System</b></a>
+
+Decentralized storage solution for tamper-proof digital evidence using blockchain.
+
+#### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge">
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js">
+
+---
+
+<!-- STUDENT MANAGEMENT -->
+### 🎓 <a href="#"><b>Student Management System</b></a>
+
+A full-stack system to manage student attendance, academics, and information securely.
+
+#### 🛠 Tech Stack  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot">
+<img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql">
+
+</div>
+
 
 ---
 
